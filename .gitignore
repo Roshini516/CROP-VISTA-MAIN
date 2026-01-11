@@ -6,3 +6,4 @@ __pycache__/
 .env
 model.sav
 *.sav
+.DS_Store
